@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://french-with-nelliane.netlify.app/sitemap.xml
